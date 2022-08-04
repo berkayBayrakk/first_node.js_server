@@ -1,0 +1,38 @@
+2022-07-24	67ab6b06-2fb2-42a2-abb8-0aa181eb5992	Event emitted by Cagatay
+2022-07-24	cbc4d68e-4b2a-4bf2-92ec-688894cad4c8	Event emitted by a
+2022-07-24	7b340ad1-2a7a-4a65-b3ce-31901d9a0890	Event emitted by a
+2022-07-24	50f1e6fc-a642-4e83-80bc-ee4720f483dc	Event emitted by a
+2022-07-24	df08872d-f88b-4a5b-9473-e3aee17f1195	Event emitted by a
+2022-07-24	85deb6d2-28a6-495d-acb9-11d47c7a5024	Event emitted by a
+2022-07-24	addbae5f-04d1-47f3-be51-8c698804573e	Event emitted by a
+2022-07-24	7723514e-38d5-43cd-ab76-ea1c1f683e84	Event emitted by a
+2022-07-24	a27e81cd-bf8d-4f30-876c-ad2e6c07cfd0	Event emitted by a
+2022-07-24	5445398d-d53f-454a-afe1-d5878a149b60	Event emitted by a
+2022-07-24	e5a0cb0b-b286-4147-a469-8a63d3d8559d	Event emitted by a
+2022-07-24	9fe5a5e5-6560-4481-8ba0-48a727e5a294	Event emitted by a
+2022-07-24	c069dbfc-1a99-465f-8a49-245af358e23f	Event emitted by a
+2022-07-24	899d3022-68e8-46cf-82e8-2d357028ad31	Event emitted by a
+2022-07-24	e4d75069-f9aa-46fe-81a3-8521d7549108	Event emitted by a
+2022-07-24	4aeb316d-8f1e-4185-8aa0-35653f51c2cd	Event emitted by a
+2022-07-24	fdac3e16-8f11-49b6-9a9e-7b1b3392bef1	Event emitted by a
+2022-07-24	ba805884-fb2d-45bc-a3ee-a031158806a4	/ GET
+2022-07-24	88a9122d-2b47-4723-bb1b-2bcff307865c	/lol GET
+2022-07-24	cdada2e9-2aa0-472d-a5ab-d3fe3fb0faf5	/ GET
+2022-07-24	65d5448a-1202-40b6-9bbb-f6e582b14603	/ GET
+2022-07-24	b7c0ca1f-4724-4aff-b440-a966d42efc1e	/ GET
+2022-07-24	444d5f01-ec71-46d2-bb8c-4f9a4797fdaf	/blabla.txt GET
+2022-07-24	d4ae3fc0-737d-413d-bdb7-fce09411a79c	/blabla.txt GET
+2022-07-24	794c18a5-f9f9-478d-ab34-1ed404f4a76d	/blabla.txt GET
+2022-07-24	788e04ac-c738-4bf8-91df-2e3afe73d817	/ GET
+2022-07-24	b5cf362d-cc74-44ec-b32e-576356c9ac4a	Error: ENOENT: no such file or directory, open 'C:\Users\Berkay\Desktop\node.js server\views\404.html'
+2022-07-24	47ed8d4d-c5a6-446a-a443-e30119f0a043	/about-us GET
+2022-07-24	0df6e59e-ed2f-4831-a934-e6b38e6cbcc2	Error: ENOENT: no such file or directory, open 'C:\Users\Berkay\Desktop\node.js server\views\404.html'
+2022-07-24	00fad247-ad19-4b56-8ef4-d20ccdda78ec	/about-us GET
+2022-07-24	49fbd496-1d7d-4b93-8691-e94b58ddd3e7	/favicon.ico GET
+2022-07-24	35ca35cb-4c0a-4051-b9c7-742a6fad52fa	/about-us GET
+2022-07-24	0657b611-f9d2-46e6-aeb0-2aeb23272ec3	/about-us GET
+2022-07-24	b92640e0-361f-4bc2-be7e-dddc5af9f9a7	/about-us GET
+2022-07-24	5b294be0-cefe-4112-b661-ec1bc19374f9	/about-us/ GET
+2022-07-25	a0eff0fb-bbeb-4684-a2fe-9ea179528d0c	/about-us/i GET
+2022-07-25 01	e3b15303-637e-41a9-84db-816d5d67ee4a	/about-us/i GET
+2022-07-25 01-35	bcca91b0-798b-40d4-b6bc-b09a50186e03	/about-us/i GET

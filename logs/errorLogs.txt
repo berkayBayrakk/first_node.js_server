@@ -1,0 +1,14 @@
+2022-07-25 10-38	c9035076-e3de-4125-8804-e2d0c3cab5da	NaN is not a function	TypeError
+2022-07-25 10-39	7e655584-a786-43bf-b4d8-9723c7003766	Nan is not defined	ReferenceError
+2022-07-25 10-39	a1e82039-200b-433d-9caa-4ed7ed0969ee	Nan is not defined	ReferenceError
+2022-07-25 10-39	e24cdcf6-dc8b-431e-8c68-2c885c7e32f9	Nan is not defined	ReferenceError
+2022-07-25 10-50	ee7b8968-63fd-49f0-8315-0c1166900df8	Cannot set headers after they are sent to the client	Error
+2022-07-25 10-56	34b68de8-00f6-4e49-b1e9-ed65009ffe94	Cannot set headers after they are sent to the client	Error
+2022-07-25 10-57	380c99a5-d216-4706-b5c0-65d9230f3ad6	Cannot set headers after they are sent to the client	Error
+2022-07-25 11-00	e4e7eec2-cfeb-4b7c-b374-9f287ad20710	userId is not defined	ReferenceError
+2022-07-25 11-00	b31a7596-0714-45d9-a784-c9db92404df1	userId is not defined	ReferenceError
+2022-07-27 08-00	288e7787-a739-418d-bbea-b2f25cdb4985	path is not defined	ReferenceError
+2022-07-27 08-30	e2bd26ee-d24c-4db6-9c90-c401e1b72c50	isExtensionAllowed is not defined	ReferenceError
+2022-07-27 09-34	bf832f79-b119-44c6-8aad-fbe1b1698290	console.log(...) is not a function	TypeError
+2022-07-27 09-35	cd6e76ed-8304-44d5-9228-3f3147ad8494	console.log(...) is not a function	TypeError
+2022-08-03 12-33	e65900b3-1dea-49dc-ad4f-847d3e96e7f5	Cannot read properties of undefined (reading 'username')	TypeError
